@@ -1,4 +1,4 @@
-# Sentiment analysis of coffee shops reviews with python
+# Coffee shops reviews sentiment analysis with python
 
 Imagine you are moving to a new city where you have never been before, and additionally you are crazy foodies. Obviously, you want to discover the best coffee shops in your brand new neighbourhood (or you are considering between some districts and want to compare them). As you now, mouth publicity is the most efficient way of marketing promotion so fist thing that you are doing is reading some google reviews. But it is almost impossible to manually evaluate each comment.
 
@@ -6,7 +6,7 @@ What you can do is build model that will classify customers' attitude towards se
 
 Customer satisfaction is vital for every business, and such model can be used to enhance business opportunities and improve customers experiences.
 
-The purpose of this project is to build the NLP model, that will we able to decide whether the attender had positive, neutral or negative impression after wisiting coffee shops.
+The purpose of this project is to build the NLP model, that will we able to decide whether the attender had positive, neutral or negative impression after visiting coffee shops.
 
 The data is scrapped from google place reviews and consists of 1165 reviews of Surry Hills coffee shops (20) in Sydney, Australia.
 
